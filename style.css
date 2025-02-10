@@ -1,0 +1,10 @@
+li{
+    border: 1px solid black;
+    margin-bottom: 15px;
+    width: 80%;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
